@@ -1,3 +1,10 @@
+Style the following ya 5oya
+- Table of content
+- Lists
+- Titles
+- Tables
+- Images
+
 # DocMarkdown
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
